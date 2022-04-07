@@ -1,3 +1,3 @@
-#Netflix created in react
+## Netflix in React
 
-Created by Wessel van den IJssel "https://wesselvandenijssel.nl/"
+Made by Wessel van den IJssel

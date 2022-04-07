@@ -35,7 +35,7 @@ export function BrowseContainer({ slides }) {
       setSlideRows(results);
     } else {
       setSlideRows(slides[category]);
-    }
+    }//eslint-disable-next-line
   }, [searchTerm]);
 
   return profile.displayName ? (

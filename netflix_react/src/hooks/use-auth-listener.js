@@ -16,7 +16,7 @@ export default function useAuthListener() {
       }
     });
 
-    return () => listener();
+    return () => listener(); //eslint-disable-next-line
   }, []);
 
   return { user };
